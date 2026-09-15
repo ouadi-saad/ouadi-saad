@@ -1,16 +1,15 @@
-## Hi there 👋
+# Saad Ouadi
 
-<!--
-**ouadi-saad/ouadi-saad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd-year engineering student at **ENSEEIHT** (Toulouse), Electrical Engineering, Electronics & Control department.
 
-Here are some ideas to get you started:
+🔎 **Looking for a 3-month internship in Toulouse from June 2027.** <!-- ✏️ field(s) -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## On this profile
+- **[portfolio-ppp](https://github.com/ouadi-saad/portfolio-ppp)**: my Personal and Professional Project, covering education, projects, career and engagement
+<!-- ✏️ add other repositories here as you publish them -->
+
+## Tools
+<!-- ✏️ only what you actually use, e.g. MATLAB/Simulink · Python · LaTeX -->
+
+## Contact
+[LinkedIn](https://www.linkedin.com/in/saad-ouadi-bb5561372/) · saadouadi2005@gmail.com
