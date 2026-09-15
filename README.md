@@ -4,11 +4,9 @@
 
 **Looking for a 3-month internship in Toulouse from June 2027.** <!-- ✏️ field(s) -->
 
-## On this profile
-- **[portfolio-ppp](https://github.com/ouadi-saad/portfolio-ppp)**: my Personal and Professional Project, covering education, projects, career and engagement
-<!-- ✏️ add other repositories here as you publish them -->
 
 ## Tools
+Plecs, C, Python, PSpice, Matlab, Photoshop, Premier Pro 
 <!-- ✏️ only what you actually use, e.g. MATLAB/Simulink · Python · LaTeX -->
 
 ## Contact
